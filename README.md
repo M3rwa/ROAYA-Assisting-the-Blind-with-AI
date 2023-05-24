@@ -1,4 +1,4 @@
-.![Picture1](https://user-images.githubusercontent.com/99560022/229833089-aa339dc1-de9f-4d14-80e7-d3d3632db092.png)
+![Picture1](https://user-images.githubusercontent.com/99560022/229833089-aa339dc1-de9f-4d14-80e7-d3d3632db092.png)
 
 # ROAYA: Assisting the Blind with AI
 
